@@ -1,1 +1,1 @@
-EDA with python on Bike Share Dataset 
+EDA with python on a Bike Share company's dataset 
